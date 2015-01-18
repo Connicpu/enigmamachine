@@ -1,0 +1,7 @@
+[package]
+name = "enigmamachine"
+version = "0.0.1"
+authors = ["Connorcpu <connorcpu@live.com>"]
+
+[dependencies]
+num = "*"
